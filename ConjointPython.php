@@ -1,5 +1,5 @@
 <?php
-// Code to randomly generate conjint profiles to send to a Qualtrics instance
+// Code to randomly generate conjoint profiles to send to a Qualtrics instance
 // Terminology clarification: 
 // Task = Set of choices presented to respondent in a single screen (i.e. pair of candidates)
 // Profile = Single list of attributes in a given task (i.e. candidate)
